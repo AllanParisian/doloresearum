@@ -1,0 +1,29 @@
+{
+  "name": "doloresearum",
+  "version": "1.0.0",
+  "description": "Order and group the imports",
+  "main": "src/index.js",
+  "bin": {
+    "organize-js-imports": "organize-js-imports"
+  },
+  "keywords": [
+    "javascript",
+    "et",
+    "organize"
+  ],
+  "author": "BryonSchuster",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AllanParisian/doloresearum.git"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  },
+  "dependencies": {
+    "globby": "^6.0.0",
+    "minimatch": "^3.0.3",
+    "moment": "^2.17.1"
+  },
+  "homepage": "https://github.com/AllanParisian/doloresearum.git"
+}
